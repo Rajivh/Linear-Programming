@@ -34,4 +34,5 @@ Where Xj is 1 or 0 depending on whether player j is selected or not and Rj is th
 
 Dataset: https://www.kaggle.com/thec03u5/fifa-18-demo-player-dataset\
 
-
+References: http://benalexkeen.com/linear-programming-with-python-and-pulp-part-6/
+For using PuLp for solving linear optimization problems
